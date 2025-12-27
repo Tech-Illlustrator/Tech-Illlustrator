@@ -20,7 +20,7 @@
       <h3 align="center">👨‍💻 Source_Code.py</h3>
       <br/>
       
-'''python'''
+```python
 class Tushar:
     def __init__(self):
         self.username = "Tech-Illlustrator"
@@ -36,28 +36,3 @@ class Tushar:
         
     def say_hi(self):
         print("Building the future, one byte at a time.")
-
-</td>
-<td width="45%" valign="top">
-  <h3 align="center">🛠 Tech_Stack.json</h3>
-  <br/>
-  <div align="center">
-    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-    <img src="https://img.shields.io/badge/PySpark-%23E25A1C.svg?style=for-the-badge&logo=apache-spark&logoColor=white" />
-    <img src="https://img.shields.io/badge/Hadoop-%2366CCFF.svg?style=for-the-badge&logo=apache-hadoop&logoColor=black" />
-    <br/>
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-    <br/>
-    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  </div>
-</td>
-</tr> </table>
-
-<div align="center"> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DTech-Illlustrator%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue%26count_private%3Dtrue" height="170"/> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DTech-Illlustrator%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue" height="170"/> </div>
-
-<div align="center">
-
-
-<a href="https://www.google.com/search?q=https://linkedin.com/in/tusharrr1"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Connect_on_LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" /> </a> <a href="mailto:tusarkantroy77@gmail.com"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Email_Me-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" /> </a> </div>
