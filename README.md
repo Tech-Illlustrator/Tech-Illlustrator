@@ -27,13 +27,6 @@
         </a>
       </div>
     </td>
-    
-    <td width="45%" valign="top">
-      <h3 align="center">📊 Data_Stream</h3>
-      <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Tech-Illlustrator&show_icons=true&theme=transparent&hide_border=true&title_color=00BFFF&text_color=ffffff&icon_color=00BFFF" />
-      </div>
-    </td>
   </tr>
 </table>
 
