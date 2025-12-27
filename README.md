@@ -1,37 +1,38 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=80&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hello.;Namaste.;Bonjour.;Hola.;Ciao." alt="Typing SVG" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=400&size=25&pause=1000&color=888888&center=true&vCenter=true&width=600&lines=Tushar+%7C+Cloud+%26+Big+Data+Architect;Designed+in+Hyderabad." alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&section=header&text=TUSHAR&fontSize=80&fontAlign=50&fontAlignY=40&desc=Cloud%20Architect%20%7C%20Data%20Engineer&descAlign=50&descAlignY=70&descSize=20&animation=fadeIn&stroke=ffffff&strokeWidth=2" width="100%"/>
 </div>
 
 <br/>
 
 <table border="0" width="100%">
   <tr>
-    <td width="60%" valign="top">
-      <h3>👨🏻‍💻 Profile</h3>
+    <td width="55%" valign="top">
+      <h3 align="center">🧊 Profile_Info</h3>
+      <br/>
       <p>
-        I build <b>scalable data ecosystems</b> with the precision of a designer. 
+        <b>Hi there!</b> I design scalable data ecosystems with a <i>glass-like</i> precision. 
         <br/><br/>
-        Focused on <br/>
-        <b>Serverless Architectures • Real-time Streaming • UI/UX</b>
+        My architecture is transparent, my code is clean, and my UIs are fluid.
+        <br/><br/>
+        🚀 <b>Focus:</b> Serverless Data Lakes & Real-Time Streaming<br/>
+        🎨 <b>Style:</b> Minimalist UI/UX
       </p>
       <br/>
-      <a href="https://linkedin.com/in/tusharrr1">
-        <img src="https://img.shields.io/badge/LinkedIn-Connect-white?style=for-the-badge&logo=linkedin&logoColor=black" />
-      </a>
-      <a href="mailto:tusarkantroy77@gmail.com">
-        <img src="https://img.shields.io/badge/Email-Contact_Me-black?style=for-the-badge&logo=apple&logoColor=white" />
-      </a>
+      <div align="center">
+        <a href="https://linkedin.com/in/tusharrr1">
+          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+        </a>
+        <a href="mailto:tusarkantroy77@gmail.com">
+          <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+        </a>
+      </div>
     </td>
     
-    <td width="40%" valign="top">
-      <h3>📊 Activity</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=Tech-Illlustrator&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=999999&icon_color=ffffff" />
+    <td width="45%" valign="top">
+      <h3 align="center">📊 Data_Stream</h3>
+      <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Tech-Illlustrator&show_icons=true&theme=transparent&hide_border=true&title_color=00BFFF&text_color=ffffff&icon_color=00BFFF" />
+      </div>
     </td>
   </tr>
 </table>
@@ -39,7 +40,7 @@
 <br/>
 
 <div align="center">
-  <h3>🛠️ The Dock</h3>
+  <h3>🛠️ The Tech Dock</h3>
   <br/>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,python,pyspark,mysql,figma,html,css,linux,git,docker&perline=10&theme=dark" />
@@ -49,7 +50,5 @@
 <br/><br/>
 
 <div align="center">
-  <p style="color: #888888; font-size: 12px;">
-    Designed by Tushar.
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </div>
