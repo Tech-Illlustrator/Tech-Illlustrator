@@ -1,38 +1,49 @@
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Tech-Illlustrator&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=180&section=header&text=Tushar&fontSize=80&fontAlign=50&fontAlignY=45&desc=Cloud%20Architect%20%7C%20Data%20Engineer%20%7C%20UI%2FUX&descAlign=50&descAlignY=78&animation=fadeIn" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>👋 Welcome to my workspace</h3>
+  <p>
+    I bridge the gap between <b>Big Data Architecture</b> and <b>Beautiful Design</b>.
+    <br/>
+    Specializing in AWS Serverless Data Lakes and Intuitive User Interfaces.
+  </p>
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>💻 Tech Arsenal</h3>
+  <br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,python,mysql,figma,html,css,git,linux,docker,kafka&perline=5" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00FF99&background=00000000&center=true&vCenter=true&width=600&lines=SYSTEM_STATUS%3A+ONLINE...;USER%3A+TUSHAR_(Tech-Illlustrator);ROLE%3A+CLOUD_%26+BIG_DATA_ENGINEER;LOADING_SKILLS%3A+AWS%2C+PYSPARK%2C+SQL..." alt="Typing SVG" />
-  </a>
+  <h3>🐘 Big Data & Analytics</h3>
+  <img src="https://img.shields.io/badge/Apache%20Spark-F25A1C?style=for-the-badge&logo=Apache%20Spark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
 </div>
 
 <br/>
 
-<table border="0" width="100%">
-  <tr>
-    <td width="55%" valign="top">
-      <h3 align="center">👨‍💻 Source_Code.py</h3>
-      <br/>
-      
-```python
-class Tushar:
-    def __init__(self):
-        self.username = "Tech-Illlustrator"
-        self.role = "Cloud & Big Data Engineer"
-        self.location = "Hyderabad, India"
-        
-    def current_focus(self):
-        return [
-            "Serverless Data Lakes",
-            "Scalable Cloud Architectures",
-            "UI/UX Design"
-        ]
-        
-    def say_hi(self):
-        print("Building the future, one byte at a time.")
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tech-Illlustrator&show_icons=true&theme=calm&hide_border=true&bg_color=0d1117" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tech-Illlustrator&layout=compact&theme=calm&hide_border=true&bg_color=0d1117" height="180"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://linkedin.com/in/tusharrr1">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</div>
