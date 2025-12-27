@@ -1,12 +1,10 @@
-## Hi there 👋
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello%20World&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I%20am%20Tushar&descAlignY=51&descAlign=62" width="100%"/>
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Cloud+%26+Big+Data+Engineer;AWS+%26+PySpark+Developer;UI%2FUX+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Cloud+%26+Big+Data+Engineer;AWS+%26+PySpark+Developer;UI%2FUX+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
   </a>
 </div>
 
