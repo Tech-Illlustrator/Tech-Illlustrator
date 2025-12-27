@@ -1,49 +1,55 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=180&section=header&text=Tushar&fontSize=80&fontAlign=50&fontAlignY=45&desc=Cloud%20Architect%20%7C%20Data%20Engineer%20%7C%20UI%2FUX&descAlign=50&descAlignY=78&animation=fadeIn" width="100%"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=80&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hello.;Namaste.;Bonjour.;Hola.;Ciao." alt="Typing SVG" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=400&size=25&pause=1000&color=888888&center=true&vCenter=true&width=600&lines=Tushar+%7C+Cloud+%26+Big+Data+Architect;Designed+in+Hyderabad." alt="Typing SVG" />
 </div>
 
 <br/>
 
-<div align="center">
-  <h3>👋 Welcome to my workspace</h3>
-  <p>
-    I bridge the gap between <b>Big Data Architecture</b> and <b>Beautiful Design</b>.
-    <br/>
-    Specializing in AWS Serverless Data Lakes and Intuitive User Interfaces.
-  </p>
-</div>
+<table border="0" width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <h3>👨🏻‍💻 Profile</h3>
+      <p>
+        I build <b>scalable data ecosystems</b> with the precision of a designer. 
+        <br/><br/>
+        Focused on <br/>
+        <b>Serverless Architectures • Real-time Streaming • UI/UX</b>
+      </p>
+      <br/>
+      <a href="https://linkedin.com/in/tusharrr1">
+        <img src="https://img.shields.io/badge/LinkedIn-Connect-white?style=for-the-badge&logo=linkedin&logoColor=black" />
+      </a>
+      <a href="mailto:tusarkantroy77@gmail.com">
+        <img src="https://img.shields.io/badge/Email-Contact_Me-black?style=for-the-badge&logo=apple&logoColor=white" />
+      </a>
+    </td>
+    
+    <td width="40%" valign="top">
+      <h3>📊 Activity</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=Tech-Illlustrator&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=999999&icon_color=ffffff" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
 <div align="center">
-  <h3>💻 Tech Arsenal</h3>
+  <h3>🛠️ The Dock</h3>
   <br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,python,mysql,figma,html,css,git,linux,docker,kafka&perline=5" />
+    <img src="https://skillicons.dev/icons?i=aws,python,pyspark,mysql,figma,html,css,linux,git,docker&perline=10&theme=dark" />
   </a>
 </div>
 
-<br/>
+<br/><br/>
 
 <div align="center">
-  <h3>🐘 Big Data & Analytics</h3>
-  <img src="https://img.shields.io/badge/Apache%20Spark-F25A1C?style=for-the-badge&logo=Apache%20Spark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" />
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tech-Illlustrator&show_icons=true&theme=calm&hide_border=true&bg_color=0d1117" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tech-Illlustrator&layout=compact&theme=calm&hide_border=true&bg_color=0d1117" height="180"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://linkedin.com/in/tusharrr1">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
+  <p style="color: #888888; font-size: 12px;">
+    Designed by Tushar.
+  </p>
 </div>
