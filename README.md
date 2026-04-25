@@ -46,7 +46,7 @@
   <a href="https://linkedin.com/in/tusharrr1">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:tusarkantroy77@gmail.com">
+  <a href="mailto:tusarkantroyt77@gmail.com">
     <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
